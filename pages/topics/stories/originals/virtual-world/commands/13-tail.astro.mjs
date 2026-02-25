@@ -1,0 +1,28 @@
+import { c as createAstro, a as createComponent, r as renderComponent, b as renderTemplate, m as maybeRenderHead } from '../../../../../../chunks/astro/server_CZXttPcx.mjs';
+import 'kleur/colors';
+import { $ as $$Base } from '../../../../../../chunks/Base_B9z84OHY.mjs';
+import { $ as $$FolderLinks } from '../../../../../../chunks/FolderLinks_Cb3w_LRp.mjs';
+/* empty css                                                */
+export { renderers } from '../../../../../../renderers.mjs';
+
+const $$Astro = createAstro("https://katsumimaki.github.io");
+const $$Index = createComponent(($$result, $$props, $$slots) => {
+  const Astro2 = $$result.createAstro($$Astro, $$props, $$slots);
+  Astro2.self = $$Index;
+  const current = Astro2.url.pathname;
+  return renderTemplate`${renderComponent($$result, "Base", $$Base, { "title": "13 Tail" }, { "default": ($$result2) => renderTemplate` ${renderComponent($$result2, "FolderLinks", $$FolderLinks, { "current": current })} ${maybeRenderHead()}<article class="story" data-theme="dark"> <h1 class="story-page-title">13 Tail</h1> <div class="spacer"></div> <div class="spacer"></div> <div class="prose"> <p>Tail’s ears swivel to the source of the sound. The smallest sound gets amplified as they lock on. A predator, by the sound of the quiet breath, on the hunt. Unable to hear their footsteps, Tail knows it must be a cunning feline. He puts a paw up to the special forces team behind him. They were separated from their commander. Even the strongest of troops could fall to the wildlife of Tail’s home planet. It was a war of attrition, and these aliens found themselves neck-deep in the waters, lightyears away from their community.</p> <p>It was an unfortunate crash-landing. No one in their right mind would willingly land on Yersec. It was known for being untameable. Aliens have stopped trying long ago.</p> <p>Tail, however, was in his element. He was a Vulpine, though not quite a predator. Vulpines like him hunted prey for food, small things. But Felines, especially the predator Felines, hunted for sport. The quickest wit, the most evasive, that was what they considered suitable prey. Most often, it ended up being other predators. The bigger, the better.</p> <p>And now he was harboring the most enticing hunt in decades. Not only aliens, but super-soldiers known for being undefeatable. Stories of these alien soldiers have been circulating the planet, but they’ve never landed until now. Likely with good reason, as the glory-driven wildlife would eat up the opportunity to be the first to take down these legends.</p> <p>He had no skin in the game, but Tail wanted to see these aliens to safety. He wished to see the universe, but ships were too afraid to visit. These soldiers could take him to the stars. Someday, he wouldn’t live in constant fear of predators. He could go on their ship and finally be able to let down his guard.</p> <p>He wasn’t the Feline’s target. He shouldn’t get in the way, but he could pass valuable information to the soldiers about surviving on Yersec. They would have a fighting chance to reunite with their commander and leave this Yer-forsaken place.</p> <p>He scampers up a tree, pausing to distinguish the type of predator they were about to face. The soldiers were already at attention, scanning the area when they saw his signal of danger.</p> <p>The Feline was alone. Its black fur blended into the shadows laid down by the thick foliage above. It was a Panther, which explains the soft steps. He lets the soldiers know how this engagement may go down. His chirps get translated by their suits, a collar around his neck lets him speak to them at a distance.</p> <p>On their journey, these tussles didn’t last long. The soldiers really were the best in the galaxy. That being said, much of the planet was undocumented and unknown, so it could have been a different story if Tail wasn’t there to help. Quick chirps could tell them all they needed to know about what to expect, what to eat, and how to navigate the difficult jungle terrain. Information was just as much a part of the battle.</p> <p>Eventually, they came across the commander. She had been lured into the spider’s nest, and the armor had barely stood up to the acids that were attempting to digest the tasty morsel. The colossal spiders of this realm couldn’t care less about glory, they just loved to entice and ensnare anything under the sun or moons. Their meat was their playthings, bound by their nearly unbreakable threads.</p> <p>With Tail’s guidance, they made it out of the heart of the spider nest and back to the ship. It seemed flightworthy after a laborious night of repairs, and Tail looked down as the lush green environment grew smaller as they took off.</p> <p>“Beautiful, but dangerous…” The commander said, her arms crossed next to him.</p> <p>“Just like someone I know,” Tail quipped, their translated chirps making the commander roll her eyes. Tail grew quite fond of the strong woman during their perilous journey, the premise of being free from Yersec gave him hope and gratitude like he’s never felt before.</p> </div> </article> ` })}`;
+}, "C:/Users/DAISY/KatsumiMaki/src/pages/topics/stories/originals/virtual-world/commands/13-tail/index.astro", void 0);
+
+const $$file = "C:/Users/DAISY/KatsumiMaki/src/pages/topics/stories/originals/virtual-world/commands/13-tail/index.astro";
+const $$url = "/topics/stories/originals/virtual-world/commands/13-tail/";
+
+const _page = /*#__PURE__*/Object.freeze(/*#__PURE__*/Object.defineProperty({
+  __proto__: null,
+  default: $$Index,
+  file: $$file,
+  url: $$url
+}, Symbol.toStringTag, { value: 'Module' }));
+
+const page = () => _page;
+
+export { page };
