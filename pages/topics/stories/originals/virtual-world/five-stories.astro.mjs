@@ -1,6 +1,6 @@
 import { c as createAstro, a as createComponent, r as renderComponent, b as renderTemplate, m as maybeRenderHead, d as addAttribute } from '../../../../../chunks/astro/server_CZXttPcx.mjs';
 import 'kleur/colors';
-import { f as findNodeByHref, $ as $$Base } from '../../../../../chunks/Base_B9z84OHY.mjs';
+import { f as findNodeByHref, $ as $$Base } from '../../../../../chunks/Base_DMGW_6Ds.mjs';
 /* empty css                                             */
 export { renderers } from '../../../../../renderers.mjs';
 
@@ -64,9 +64,9 @@ Each story is individually tagged using a descriptive term between the
       storyline listed after it. The stories are intermixed, but may be read
       individually with the outline above. The suggested starting point is${" "} <strong>[01 Cautious 01]</strong>.
 </p> </div> ` })}`;
-}, "C:/Users/DAISY/KatsumiMaki/src/pages/topics/stories/originals/virtual-world/five-stories/index.astro", void 0);
+}, "C:/Users/DAISY/GithubPages/vw.z/src/pages/topics/stories/originals/virtual-world/five-stories/index.astro", void 0);
 
-const $$file = "C:/Users/DAISY/KatsumiMaki/src/pages/topics/stories/originals/virtual-world/five-stories/index.astro";
+const $$file = "C:/Users/DAISY/GithubPages/vw.z/src/pages/topics/stories/originals/virtual-world/five-stories/index.astro";
 const $$url = "/topics/stories/originals/virtual-world/five-stories/";
 
 const _page = /*#__PURE__*/Object.freeze(/*#__PURE__*/Object.defineProperty({

@@ -1,7 +1,7 @@
 import { c as createAstro, a as createComponent, r as renderComponent, b as renderTemplate, m as maybeRenderHead } from '../../chunks/astro/server_CZXttPcx.mjs';
 import 'kleur/colors';
-import { $ as $$Base } from '../../chunks/Base_B9z84OHY.mjs';
-import { $ as $$SubFolderLinks } from '../../chunks/SubFolderLinks_BAEQ7vdd.mjs';
+import { $ as $$Base } from '../../chunks/Base_DMGW_6Ds.mjs';
+import { $ as $$SubFolderLinks } from '../../chunks/SubFolderLinks_vf0V8EJ8.mjs';
 /* empty css                                    */
 export { renderers } from '../../renderers.mjs';
 
@@ -12,9 +12,9 @@ const $$Index = createComponent(($$result, $$props, $$slots) => {
   const current = Astro2.url.pathname;
   const pageTitle = "Stories \u2014 VW.Z";
   return renderTemplate`${renderComponent($$result, "Base", $$Base, { "title": pageTitle }, { "default": ($$result2) => renderTemplate` ${renderComponent($$result2, "SubFolderLinks", $$SubFolderLinks, { "current": current, "kicker": pageTitle, "ariaLabel": `${pageTitle} subfolders` })} ${maybeRenderHead()}<div class="prose"> <p>Short and long-form fiction, organized by universe.</p> </div> ` })}`;
-}, "C:/Users/DAISY/KatsumiMaki/src/pages/topics/stories/index.astro", void 0);
+}, "C:/Users/DAISY/GithubPages/vw.z/src/pages/topics/stories/index.astro", void 0);
 
-const $$file = "C:/Users/DAISY/KatsumiMaki/src/pages/topics/stories/index.astro";
+const $$file = "C:/Users/DAISY/GithubPages/vw.z/src/pages/topics/stories/index.astro";
 const $$url = "/topics/stories/";
 
 const _page = /*#__PURE__*/Object.freeze(/*#__PURE__*/Object.defineProperty({

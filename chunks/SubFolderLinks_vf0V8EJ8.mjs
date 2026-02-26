@@ -1,7 +1,7 @@
 import { c as createAstro, a as createComponent, m as maybeRenderHead, d as addAttribute, b as renderTemplate } from './astro/server_CZXttPcx.mjs';
 import 'kleur/colors';
 import 'clsx';
-import { f as findNodeByHref } from './Base_B9z84OHY.mjs';
+import { f as findNodeByHref } from './Base_DMGW_6Ds.mjs';
 
 const $$Astro = createAstro("https://katsumimaki.github.io");
 const $$SubFolderLinks = createComponent(($$result, $$props, $$slots) => {
@@ -39,6 +39,6 @@ const $$SubFolderLinks = createComponent(($$result, $$props, $$slots) => {
     const stories = (universe.children ?? []).slice().sort(compareByLabelWithTrailingNumber);
     return renderTemplate`<li><a${addAttribute(universe.href, "href")}>${universe.label}</a>${stories.length > 0 && renderTemplate`<ul>${stories.map((story) => renderTemplate`<li><a${addAttribute(story.href, "href")}>${story.label}</a></li>`)}</ul>`}</li>`;
   })}</ul><hr></nav>`}`;
-}, "C:/Users/DAISY/KatsumiMaki/src/components/SubFolderLinks.astro", void 0);
+}, "C:/Users/DAISY/GithubPages/vw.z/src/components/SubFolderLinks.astro", void 0);
 
 export { $$SubFolderLinks as $ };

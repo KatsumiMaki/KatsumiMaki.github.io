@@ -1,7 +1,7 @@
 import { c as createAstro, a as createComponent, r as renderComponent, b as renderTemplate, m as maybeRenderHead } from '../../../../chunks/astro/server_CZXttPcx.mjs';
 import 'kleur/colors';
-import { $ as $$Base } from '../../../../chunks/Base_B9z84OHY.mjs';
-import { $ as $$FolderLinks } from '../../../../chunks/FolderLinks_Cb3w_LRp.mjs';
+import { $ as $$Base } from '../../../../chunks/Base_DMGW_6Ds.mjs';
+import { $ as $$FolderLinks } from '../../../../chunks/FolderLinks_5Et2assD.mjs';
 export { renderers } from '../../../../renderers.mjs';
 
 const $$Astro = createAstro("https://katsumimaki.github.io");
@@ -10,9 +10,9 @@ const $$Index = createComponent(($$result, $$props, $$slots) => {
   Astro2.self = $$Index;
   const current = Astro2.url.pathname;
   return renderTemplate`${renderComponent($$result, "Base", $$Base, { "title": "Animal Crossing Art" }, { "default": ($$result2) => renderTemplate` ${renderComponent($$result2, "FolderLinks", $$FolderLinks, { "current": current })} ${maybeRenderHead()}<div class="prose"> <p>Art for the Animal Crossing universe.</p> </div> ` })}`;
-}, "C:/Users/DAISY/KatsumiMaki/src/pages/topics/art/fanmade/animal-crossing/index.astro", void 0);
+}, "C:/Users/DAISY/GithubPages/vw.z/src/pages/topics/art/fanmade/animal-crossing/index.astro", void 0);
 
-const $$file = "C:/Users/DAISY/KatsumiMaki/src/pages/topics/art/fanmade/animal-crossing/index.astro";
+const $$file = "C:/Users/DAISY/GithubPages/vw.z/src/pages/topics/art/fanmade/animal-crossing/index.astro";
 const $$url = "/topics/art/fanmade/animal-crossing/";
 
 const _page = /*#__PURE__*/Object.freeze(/*#__PURE__*/Object.defineProperty({

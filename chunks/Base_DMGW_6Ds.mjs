@@ -13,7 +13,7 @@ const $$SiteHeader = createComponent(($$result, $$props, $$slots) => {
 </button> <!-- Titlebar crumbs: Parent (button) / Current --> <nav class="crumbs" aria-label="Location"> <span id="crumbEllipsis" class="crumb-ellipsis" hidden>… /</span> <button class="crumb-btn" id="crumbParent" aria-label="Go to parent" title="Go up" hidden></button> <span class="crumb-sep" id="crumbSep" hidden>/</span> <strong class="site-title" id="crumbCurrent">${title}</strong> </nav> <!-- Chapter prev/next controls (in the top bar next to title) --> <span class="chap-controls" role="group" aria-label="Sibling navigation"> <button class="chap-btn" id="prevChap" aria-label="Previous item" title="Previous item" disabled>
 ‹<span class="label"> Prev</span> </button> <button class="chap-btn" id="nextChap" aria-label="Next item" title="Next item" disabled> <span class="label">Next </span>›
 </button> </span> </div>`;
-}, "C:/Users/DAISY/KatsumiMaki/src/components/layout/SiteHeader.astro", void 0);
+}, "C:/Users/DAISY/GithubPages/vw.z/src/components/layout/SiteHeader.astro", void 0);
 
 const $$Astro$3 = createAstro("https://katsumimaki.github.io");
 const $$TreeBranch = createComponent(($$result, $$props, $$slots) => {
@@ -74,7 +74,7 @@ const $$TreeBranch = createComponent(($$result, $$props, $$slots) => {
     );
     return renderTemplate`${maybeRenderHead()}<li${addAttribute(`tree-depth-${depth}`, "class")}>${sortedChildren.length ? renderTemplate`<details class="tree-item"${addAttribute(inBranch(node.href), "open")}><summary><span class="caret" aria-hidden="true"></span><a class="nav-link"${addAttribute(node.href, "href")}${addAttribute(ariaCurrent(node.href), "aria-current")}>${node.label}</a></summary><ul class="tree-children">${renderComponent($$result, "TreeBranch", $$TreeBranch, { "nodes": sortedChildren, "currentPath": currentPath, "depth": depth + 1 })}</ul></details>` : renderTemplate`<a class="nav-link"${addAttribute(node.href, "href")}${addAttribute(ariaCurrent(node.href), "aria-current")}>${node.label}</a>`}</li>`;
   })}`;
-}, "C:/Users/DAISY/KatsumiMaki/src/components/TreeBranch.astro", void 0);
+}, "C:/Users/DAISY/GithubPages/vw.z/src/components/TreeBranch.astro", void 0);
 
 const $$Astro$2 = createAstro("https://katsumimaki.github.io");
 const $$TreeNav = createComponent(($$result, $$props, $$slots) => {
@@ -82,7 +82,7 @@ const $$TreeNav = createComponent(($$result, $$props, $$slots) => {
   Astro2.self = $$TreeNav;
   const { items = [], currentPath = "/" } = Astro2.props;
   return renderTemplate`${maybeRenderHead()}<nav> <ul class="tree"> ${renderComponent($$result, "TreeBranch", $$TreeBranch, { "nodes": items, "currentPath": currentPath, "depth": 0 })} </ul> </nav>`;
-}, "C:/Users/DAISY/KatsumiMaki/src/components/TreeNav.astro", void 0);
+}, "C:/Users/DAISY/GithubPages/vw.z/src/components/TreeNav.astro", void 0);
 
 const $$Astro$1 = createAstro("https://katsumimaki.github.io");
 const $$SidebarLayout = createComponent(($$result, $$props, $$slots) => {
@@ -95,8 +95,8 @@ Find
 Cls
 </button> </div> </aside> <main id="content"> ${renderSlot($$result, $$slots["default"])} </main> </div> <div class="overlay" id="overlay" hidden></div> <!-- Scroll to top button --> <button id="scrollTopBtn" class="scroll-top-btn" type="button" aria-label="Scroll back to top" title="Scroll back to top">
 ↑ Top
-</button> ${renderScript($$result, "C:/Users/DAISY/KatsumiMaki/src/components/layout/SidebarLayout.astro?astro&type=script&index=0&lang.ts")}`;
-}, "C:/Users/DAISY/KatsumiMaki/src/components/layout/SidebarLayout.astro", void 0);
+</button> ${renderScript($$result, "C:/Users/DAISY/GithubPages/vw.z/src/components/layout/SidebarLayout.astro?astro&type=script&index=0&lang.ts")}`;
+}, "C:/Users/DAISY/GithubPages/vw.z/src/components/layout/SidebarLayout.astro", void 0);
 
 const nav = {
   "general": [
@@ -1097,6 +1097,6 @@ const $$Base = createComponent(($$result, $$props, $$slots) => {
   const { title = "VW.Z" } = Astro2.props;
   const currentPath = Astro2.url.pathname;
   return renderTemplate(_a || (_a = __template(['<html lang="en"> <head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>', "</title>", "</head> <body> ", " ", " <!-- Bundled + transpiled (TS \u2192 JS) --> <script", "><\/script> </body> </html>"])), title, renderHead(), renderComponent($$result, "SiteHeader", $$SiteHeader, { "title": title }), renderComponent($$result, "SidebarLayout", $$SidebarLayout, { "nav": nav, "currentPath": currentPath }, { "default": ($$result2) => renderTemplate` ${renderSlot($$result2, $$slots["default"])} ` }), addAttribute(Astro2.resolve("../scripts/vwz-layout.ts"), "src"));
-}, "C:/Users/DAISY/KatsumiMaki/src/layouts/Base.astro", void 0);
+}, "C:/Users/DAISY/GithubPages/vw.z/src/layouts/Base.astro", void 0);
 
 export { $$Base as $, findNodeByHref as f };

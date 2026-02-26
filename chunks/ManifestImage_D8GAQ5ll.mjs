@@ -11,9 +11,9 @@ const img = new Proxy({"src":"/_astro/img.2GET5sRE.jpg","width":600,"height":450
 								return structuredClone(target);
 							}
 							if (name === 'fsPath') {
-								return "C:/Users/DAISY/KatsumiMaki/src/images/newsletters/2024-09-september/img.jpg";
+								return "C:/Users/DAISY/GithubPages/vw.z/src/images/newsletters/2024-09-september/img.jpg";
 							}
-							if (target[name] !== undefined && globalThis.astroAsset) globalThis.astroAsset?.referencedImages.add("C:/Users/DAISY/KatsumiMaki/src/images/newsletters/2024-09-september/img.jpg");
+							if (target[name] !== undefined && globalThis.astroAsset) globalThis.astroAsset?.referencedImages.add("C:/Users/DAISY/GithubPages/vw.z/src/images/newsletters/2024-09-september/img.jpg");
 							return target[name];
 						}
 					});
@@ -29,9 +29,9 @@ const parentsVisiting = new Proxy({"src":"/_astro/parents-visiting.DhJLtuVD.jpg"
 								return structuredClone(target);
 							}
 							if (name === 'fsPath') {
-								return "C:/Users/DAISY/KatsumiMaki/src/images/newsletters/2024-10-october/parents-visiting.jpg";
+								return "C:/Users/DAISY/GithubPages/vw.z/src/images/newsletters/2024-10-october/parents-visiting.jpg";
 							}
-							if (target[name] !== undefined && globalThis.astroAsset) globalThis.astroAsset?.referencedImages.add("C:/Users/DAISY/KatsumiMaki/src/images/newsletters/2024-10-october/parents-visiting.jpg");
+							if (target[name] !== undefined && globalThis.astroAsset) globalThis.astroAsset?.referencedImages.add("C:/Users/DAISY/GithubPages/vw.z/src/images/newsletters/2024-10-october/parents-visiting.jpg");
 							return target[name];
 						}
 					});
@@ -47,9 +47,9 @@ const denimSkirt = new Proxy({"src":"/_astro/denim-skirt.-iz5siJY.jpg","width":6
 								return structuredClone(target);
 							}
 							if (name === 'fsPath') {
-								return "C:/Users/DAISY/KatsumiMaki/src/images/newsletters/2024-11-november/denim-skirt.jpg";
+								return "C:/Users/DAISY/GithubPages/vw.z/src/images/newsletters/2024-11-november/denim-skirt.jpg";
 							}
-							if (target[name] !== undefined && globalThis.astroAsset) globalThis.astroAsset?.referencedImages.add("C:/Users/DAISY/KatsumiMaki/src/images/newsletters/2024-11-november/denim-skirt.jpg");
+							if (target[name] !== undefined && globalThis.astroAsset) globalThis.astroAsset?.referencedImages.add("C:/Users/DAISY/GithubPages/vw.z/src/images/newsletters/2024-11-november/denim-skirt.jpg");
 							return target[name];
 						}
 					});
@@ -65,9 +65,9 @@ const img728822 = new Proxy({"src":"/_astro/img-7288-2-2.TmdLe-cE.jpg","width":6
 								return structuredClone(target);
 							}
 							if (name === 'fsPath') {
-								return "C:/Users/DAISY/KatsumiMaki/src/images/newsletters/2024-11-november/img-7288-2-2.jpg";
+								return "C:/Users/DAISY/GithubPages/vw.z/src/images/newsletters/2024-11-november/img-7288-2-2.jpg";
 							}
-							if (target[name] !== undefined && globalThis.astroAsset) globalThis.astroAsset?.referencedImages.add("C:/Users/DAISY/KatsumiMaki/src/images/newsletters/2024-11-november/img-7288-2-2.jpg");
+							if (target[name] !== undefined && globalThis.astroAsset) globalThis.astroAsset?.referencedImages.add("C:/Users/DAISY/GithubPages/vw.z/src/images/newsletters/2024-11-november/img-7288-2-2.jpg");
 							return target[name];
 						}
 					});
@@ -83,9 +83,9 @@ const img72882 = new Proxy({"src":"/_astro/img-7288-2.CYEjaZKg.jpg","width":600,
 								return structuredClone(target);
 							}
 							if (name === 'fsPath') {
-								return "C:/Users/DAISY/KatsumiMaki/src/images/newsletters/2024-11-november/img-7288-2.jpg";
+								return "C:/Users/DAISY/GithubPages/vw.z/src/images/newsletters/2024-11-november/img-7288-2.jpg";
 							}
-							if (target[name] !== undefined && globalThis.astroAsset) globalThis.astroAsset?.referencedImages.add("C:/Users/DAISY/KatsumiMaki/src/images/newsletters/2024-11-november/img-7288-2.jpg");
+							if (target[name] !== undefined && globalThis.astroAsset) globalThis.astroAsset?.referencedImages.add("C:/Users/DAISY/GithubPages/vw.z/src/images/newsletters/2024-11-november/img-7288-2.jpg");
 							return target[name];
 						}
 					});
@@ -101,9 +101,9 @@ const sonyTrip = new Proxy({"src":"/_astro/sony-trip.BqRAwzpS.jpg","width":600,"
 								return structuredClone(target);
 							}
 							if (name === 'fsPath') {
-								return "C:/Users/DAISY/KatsumiMaki/src/images/newsletters/2025-01-january/sony-trip.jpg";
+								return "C:/Users/DAISY/GithubPages/vw.z/src/images/newsletters/2025-01-january/sony-trip.jpg";
 							}
-							if (target[name] !== undefined && globalThis.astroAsset) globalThis.astroAsset?.referencedImages.add("C:/Users/DAISY/KatsumiMaki/src/images/newsletters/2025-01-january/sony-trip.jpg");
+							if (target[name] !== undefined && globalThis.astroAsset) globalThis.astroAsset?.referencedImages.add("C:/Users/DAISY/GithubPages/vw.z/src/images/newsletters/2025-01-january/sony-trip.jpg");
 							return target[name];
 						}
 					});
@@ -119,9 +119,9 @@ const img7619 = new Proxy({"src":"/_astro/img-7619.DWhnjfl3.jpg","width":600,"he
 								return structuredClone(target);
 							}
 							if (name === 'fsPath') {
-								return "C:/Users/DAISY/KatsumiMaki/src/images/newsletters/2025-02-february/img-7619.jpg";
+								return "C:/Users/DAISY/GithubPages/vw.z/src/images/newsletters/2025-02-february/img-7619.jpg";
 							}
-							if (target[name] !== undefined && globalThis.astroAsset) globalThis.astroAsset?.referencedImages.add("C:/Users/DAISY/KatsumiMaki/src/images/newsletters/2025-02-february/img-7619.jpg");
+							if (target[name] !== undefined && globalThis.astroAsset) globalThis.astroAsset?.referencedImages.add("C:/Users/DAISY/GithubPages/vw.z/src/images/newsletters/2025-02-february/img-7619.jpg");
 							return target[name];
 						}
 					});
@@ -137,9 +137,9 @@ const blackjack = new Proxy({"src":"/_astro/blackjack.sWGX-7k-.jpg","width":600,
 								return structuredClone(target);
 							}
 							if (name === 'fsPath') {
-								return "C:/Users/DAISY/KatsumiMaki/src/images/newsletters/2025-04-april/blackjack.jpg";
+								return "C:/Users/DAISY/GithubPages/vw.z/src/images/newsletters/2025-04-april/blackjack.jpg";
 							}
-							if (target[name] !== undefined && globalThis.astroAsset) globalThis.astroAsset?.referencedImages.add("C:/Users/DAISY/KatsumiMaki/src/images/newsletters/2025-04-april/blackjack.jpg");
+							if (target[name] !== undefined && globalThis.astroAsset) globalThis.astroAsset?.referencedImages.add("C:/Users/DAISY/GithubPages/vw.z/src/images/newsletters/2025-04-april/blackjack.jpg");
 							return target[name];
 						}
 					});
@@ -155,9 +155,9 @@ const cookies = new Proxy({"src":"/_astro/cookies.BQd7uxv5.jpg","width":600,"hei
 								return structuredClone(target);
 							}
 							if (name === 'fsPath') {
-								return "C:/Users/DAISY/KatsumiMaki/src/images/newsletters/2025-04-april/cookies.jpg";
+								return "C:/Users/DAISY/GithubPages/vw.z/src/images/newsletters/2025-04-april/cookies.jpg";
 							}
-							if (target[name] !== undefined && globalThis.astroAsset) globalThis.astroAsset?.referencedImages.add("C:/Users/DAISY/KatsumiMaki/src/images/newsletters/2025-04-april/cookies.jpg");
+							if (target[name] !== undefined && globalThis.astroAsset) globalThis.astroAsset?.referencedImages.add("C:/Users/DAISY/GithubPages/vw.z/src/images/newsletters/2025-04-april/cookies.jpg");
 							return target[name];
 						}
 					});
@@ -173,9 +173,9 @@ const kindleSolo = new Proxy({"src":"/_astro/kindle-solo.ZmnV7uqR.jpg","width":6
 								return structuredClone(target);
 							}
 							if (name === 'fsPath') {
-								return "C:/Users/DAISY/KatsumiMaki/src/images/newsletters/2025-04-april/kindle-solo.jpg";
+								return "C:/Users/DAISY/GithubPages/vw.z/src/images/newsletters/2025-04-april/kindle-solo.jpg";
 							}
-							if (target[name] !== undefined && globalThis.astroAsset) globalThis.astroAsset?.referencedImages.add("C:/Users/DAISY/KatsumiMaki/src/images/newsletters/2025-04-april/kindle-solo.jpg");
+							if (target[name] !== undefined && globalThis.astroAsset) globalThis.astroAsset?.referencedImages.add("C:/Users/DAISY/GithubPages/vw.z/src/images/newsletters/2025-04-april/kindle-solo.jpg");
 							return target[name];
 						}
 					});
@@ -191,9 +191,9 @@ const dogCatWindow = new Proxy({"src":"/_astro/dog-cat-window.CuDQ1sYD.jpg","wid
 								return structuredClone(target);
 							}
 							if (name === 'fsPath') {
-								return "C:/Users/DAISY/KatsumiMaki/src/images/newsletters/2025-05-may/dog-cat-window.jpg";
+								return "C:/Users/DAISY/GithubPages/vw.z/src/images/newsletters/2025-05-may/dog-cat-window.jpg";
 							}
-							if (target[name] !== undefined && globalThis.astroAsset) globalThis.astroAsset?.referencedImages.add("C:/Users/DAISY/KatsumiMaki/src/images/newsletters/2025-05-may/dog-cat-window.jpg");
+							if (target[name] !== undefined && globalThis.astroAsset) globalThis.astroAsset?.referencedImages.add("C:/Users/DAISY/GithubPages/vw.z/src/images/newsletters/2025-05-may/dog-cat-window.jpg");
 							return target[name];
 						}
 					});
@@ -209,9 +209,9 @@ const img3338 = new Proxy({"src":"/_astro/img-3338.B00RUfr9.jpeg","width":600,"h
 								return structuredClone(target);
 							}
 							if (name === 'fsPath') {
-								return "C:/Users/DAISY/KatsumiMaki/src/images/newsletters/2025-06-june/img-3338.jpeg";
+								return "C:/Users/DAISY/GithubPages/vw.z/src/images/newsletters/2025-06-june/img-3338.jpeg";
 							}
-							if (target[name] !== undefined && globalThis.astroAsset) globalThis.astroAsset?.referencedImages.add("C:/Users/DAISY/KatsumiMaki/src/images/newsletters/2025-06-june/img-3338.jpeg");
+							if (target[name] !== undefined && globalThis.astroAsset) globalThis.astroAsset?.referencedImages.add("C:/Users/DAISY/GithubPages/vw.z/src/images/newsletters/2025-06-june/img-3338.jpeg");
 							return target[name];
 						}
 					});
@@ -227,9 +227,9 @@ const cupcakesCake = new Proxy({"src":"/_astro/cupcakes-cake.C0sm4f5x.jpg","widt
 								return structuredClone(target);
 							}
 							if (name === 'fsPath') {
-								return "C:/Users/DAISY/KatsumiMaki/src/images/newsletters/2025-07-july/cupcakes-cake.jpg";
+								return "C:/Users/DAISY/GithubPages/vw.z/src/images/newsletters/2025-07-july/cupcakes-cake.jpg";
 							}
-							if (target[name] !== undefined && globalThis.astroAsset) globalThis.astroAsset?.referencedImages.add("C:/Users/DAISY/KatsumiMaki/src/images/newsletters/2025-07-july/cupcakes-cake.jpg");
+							if (target[name] !== undefined && globalThis.astroAsset) globalThis.astroAsset?.referencedImages.add("C:/Users/DAISY/GithubPages/vw.z/src/images/newsletters/2025-07-july/cupcakes-cake.jpg");
 							return target[name];
 						}
 					});
@@ -245,9 +245,9 @@ const img81732 = new Proxy({"src":"/_astro/img-8173-2.CFfUJ9Mo.jpg","width":600,
 								return structuredClone(target);
 							}
 							if (name === 'fsPath') {
-								return "C:/Users/DAISY/KatsumiMaki/src/images/newsletters/2025-07-july/img-8173-2.jpg";
+								return "C:/Users/DAISY/GithubPages/vw.z/src/images/newsletters/2025-07-july/img-8173-2.jpg";
 							}
-							if (target[name] !== undefined && globalThis.astroAsset) globalThis.astroAsset?.referencedImages.add("C:/Users/DAISY/KatsumiMaki/src/images/newsletters/2025-07-july/img-8173-2.jpg");
+							if (target[name] !== undefined && globalThis.astroAsset) globalThis.astroAsset?.referencedImages.add("C:/Users/DAISY/GithubPages/vw.z/src/images/newsletters/2025-07-july/img-8173-2.jpg");
 							return target[name];
 						}
 					});
@@ -263,9 +263,9 @@ const img8173 = new Proxy({"src":"/_astro/img-8173.DEILaCcf.jpg","width":600,"he
 								return structuredClone(target);
 							}
 							if (name === 'fsPath') {
-								return "C:/Users/DAISY/KatsumiMaki/src/images/newsletters/2025-07-july/img-8173.jpg";
+								return "C:/Users/DAISY/GithubPages/vw.z/src/images/newsletters/2025-07-july/img-8173.jpg";
 							}
-							if (target[name] !== undefined && globalThis.astroAsset) globalThis.astroAsset?.referencedImages.add("C:/Users/DAISY/KatsumiMaki/src/images/newsletters/2025-07-july/img-8173.jpg");
+							if (target[name] !== undefined && globalThis.astroAsset) globalThis.astroAsset?.referencedImages.add("C:/Users/DAISY/GithubPages/vw.z/src/images/newsletters/2025-07-july/img-8173.jpg");
 							return target[name];
 						}
 					});
@@ -281,9 +281,9 @@ const mabelGregoryFrog = new Proxy({"src":"/_astro/mabel-gregory-frog.CmbPhJh8.j
 								return structuredClone(target);
 							}
 							if (name === 'fsPath') {
-								return "C:/Users/DAISY/KatsumiMaki/src/images/newsletters/2025-08-august/mabel-gregory-frog.jpg";
+								return "C:/Users/DAISY/GithubPages/vw.z/src/images/newsletters/2025-08-august/mabel-gregory-frog.jpg";
 							}
-							if (target[name] !== undefined && globalThis.astroAsset) globalThis.astroAsset?.referencedImages.add("C:/Users/DAISY/KatsumiMaki/src/images/newsletters/2025-08-august/mabel-gregory-frog.jpg");
+							if (target[name] !== undefined && globalThis.astroAsset) globalThis.astroAsset?.referencedImages.add("C:/Users/DAISY/GithubPages/vw.z/src/images/newsletters/2025-08-august/mabel-gregory-frog.jpg");
 							return target[name];
 						}
 					});
@@ -299,9 +299,9 @@ const KindnessLuigi = new Proxy({"src":"/_astro/Kindness-luigi.mgsifn5I.jpeg","w
 								return structuredClone(target);
 							}
 							if (name === 'fsPath') {
-								return "C:/Users/DAISY/KatsumiMaki/src/images/newsletters/2025-09-september/Kindness-luigi.jpeg";
+								return "C:/Users/DAISY/GithubPages/vw.z/src/images/newsletters/2025-09-september/Kindness-luigi.jpeg";
 							}
-							if (target[name] !== undefined && globalThis.astroAsset) globalThis.astroAsset?.referencedImages.add("C:/Users/DAISY/KatsumiMaki/src/images/newsletters/2025-09-september/Kindness-luigi.jpeg");
+							if (target[name] !== undefined && globalThis.astroAsset) globalThis.astroAsset?.referencedImages.add("C:/Users/DAISY/GithubPages/vw.z/src/images/newsletters/2025-09-september/Kindness-luigi.jpeg");
 							return target[name];
 						}
 					});
@@ -317,9 +317,9 @@ const friendsWithYou = new Proxy({"src":"/_astro/friends-with-you.B8NUEjSO.jpg",
 								return structuredClone(target);
 							}
 							if (name === 'fsPath') {
-								return "C:/Users/DAISY/KatsumiMaki/src/images/newsletters/2025-09-september/friends-with-you.jpg";
+								return "C:/Users/DAISY/GithubPages/vw.z/src/images/newsletters/2025-09-september/friends-with-you.jpg";
 							}
-							if (target[name] !== undefined && globalThis.astroAsset) globalThis.astroAsset?.referencedImages.add("C:/Users/DAISY/KatsumiMaki/src/images/newsletters/2025-09-september/friends-with-you.jpg");
+							if (target[name] !== undefined && globalThis.astroAsset) globalThis.astroAsset?.referencedImages.add("C:/Users/DAISY/GithubPages/vw.z/src/images/newsletters/2025-09-september/friends-with-you.jpg");
 							return target[name];
 						}
 					});
@@ -335,9 +335,9 @@ const fromDadaCollagesToAiArt = new Proxy({"src":"/_astro/from-dada-collages-to-
 								return structuredClone(target);
 							}
 							if (name === 'fsPath') {
-								return "C:/Users/DAISY/KatsumiMaki/src/images/newsletters/2025-09-september/from-dada-collages-to-ai-art.jpg";
+								return "C:/Users/DAISY/GithubPages/vw.z/src/images/newsletters/2025-09-september/from-dada-collages-to-ai-art.jpg";
 							}
-							if (target[name] !== undefined && globalThis.astroAsset) globalThis.astroAsset?.referencedImages.add("C:/Users/DAISY/KatsumiMaki/src/images/newsletters/2025-09-september/from-dada-collages-to-ai-art.jpg");
+							if (target[name] !== undefined && globalThis.astroAsset) globalThis.astroAsset?.referencedImages.add("C:/Users/DAISY/GithubPages/vw.z/src/images/newsletters/2025-09-september/from-dada-collages-to-ai-art.jpg");
 							return target[name];
 						}
 					});
@@ -353,9 +353,9 @@ const monoline = new Proxy({"src":"/_astro/monoline.D5dBJuGv.jpg","width":600,"h
 								return structuredClone(target);
 							}
 							if (name === 'fsPath') {
-								return "C:/Users/DAISY/KatsumiMaki/src/images/newsletters/2025-09-september/monoline.jpg";
+								return "C:/Users/DAISY/GithubPages/vw.z/src/images/newsletters/2025-09-september/monoline.jpg";
 							}
-							if (target[name] !== undefined && globalThis.astroAsset) globalThis.astroAsset?.referencedImages.add("C:/Users/DAISY/KatsumiMaki/src/images/newsletters/2025-09-september/monoline.jpg");
+							if (target[name] !== undefined && globalThis.astroAsset) globalThis.astroAsset?.referencedImages.add("C:/Users/DAISY/GithubPages/vw.z/src/images/newsletters/2025-09-september/monoline.jpg");
 							return target[name];
 						}
 					});
@@ -371,9 +371,9 @@ const slowArt = new Proxy({"src":"/_astro/slow-art.BXKXNdgy.jpg","width":600,"he
 								return structuredClone(target);
 							}
 							if (name === 'fsPath') {
-								return "C:/Users/DAISY/KatsumiMaki/src/images/newsletters/2025-09-september/slow-art.jpg";
+								return "C:/Users/DAISY/GithubPages/vw.z/src/images/newsletters/2025-09-september/slow-art.jpg";
 							}
-							if (target[name] !== undefined && globalThis.astroAsset) globalThis.astroAsset?.referencedImages.add("C:/Users/DAISY/KatsumiMaki/src/images/newsletters/2025-09-september/slow-art.jpg");
+							if (target[name] !== undefined && globalThis.astroAsset) globalThis.astroAsset?.referencedImages.add("C:/Users/DAISY/GithubPages/vw.z/src/images/newsletters/2025-09-september/slow-art.jpg");
 							return target[name];
 						}
 					});
@@ -389,9 +389,9 @@ const testImage = new Proxy({"src":"/_astro/test-image.DNHkcG1A.jpg","width":128
 								return structuredClone(target);
 							}
 							if (name === 'fsPath') {
-								return "C:/Users/DAISY/KatsumiMaki/src/images/stories/2025-11-november/test-image.jpg";
+								return "C:/Users/DAISY/GithubPages/vw.z/src/images/stories/2025-11-november/test-image.jpg";
 							}
-							if (target[name] !== undefined && globalThis.astroAsset) globalThis.astroAsset?.referencedImages.add("C:/Users/DAISY/KatsumiMaki/src/images/stories/2025-11-november/test-image.jpg");
+							if (target[name] !== undefined && globalThis.astroAsset) globalThis.astroAsset?.referencedImages.add("C:/Users/DAISY/GithubPages/vw.z/src/images/stories/2025-11-november/test-image.jpg");
 							return target[name];
 						}
 					});
@@ -407,9 +407,9 @@ const testImage2 = new Proxy({"src":"/_astro/test-image2.BHFdh6xZ.jpg","width":1
 								return structuredClone(target);
 							}
 							if (name === 'fsPath') {
-								return "C:/Users/DAISY/KatsumiMaki/src/images/stories/2025-11-november/test-image2.jpg";
+								return "C:/Users/DAISY/GithubPages/vw.z/src/images/stories/2025-11-november/test-image2.jpg";
 							}
-							if (target[name] !== undefined && globalThis.astroAsset) globalThis.astroAsset?.referencedImages.add("C:/Users/DAISY/KatsumiMaki/src/images/stories/2025-11-november/test-image2.jpg");
+							if (target[name] !== undefined && globalThis.astroAsset) globalThis.astroAsset?.referencedImages.add("C:/Users/DAISY/GithubPages/vw.z/src/images/stories/2025-11-november/test-image2.jpg");
 							return target[name];
 						}
 					});
@@ -1629,7 +1629,7 @@ async function getConfiguredImageService() {
   if (!globalThis?.astroAsset?.imageService) {
     const { default: service } = await import(
       // @ts-expect-error
-      './sharp_BSBGUohs.mjs'
+      './sharp_BvS1qzV5.mjs'
     ).catch((e) => {
       const error = new AstroError(InvalidImageService);
       error.cause = e;
@@ -1795,7 +1795,7 @@ const $$Image = createComponent(async ($$result, $$props, $$slots) => {
   }
   const { class: className, ...attributes } = { ...additionalAttributes, ...image.attributes };
   return renderTemplate`${maybeRenderHead()}<img${addAttribute(image.src, "src")}${spreadAttributes(attributes)}${addAttribute(className, "class")}>`;
-}, "C:/Users/DAISY/KatsumiMaki/node_modules/astro/components/Image.astro", void 0);
+}, "C:/Users/DAISY/GithubPages/vw.z/node_modules/astro/components/Image.astro", void 0);
 
 const $$Astro$2 = createAstro("https://katsumimaki.github.io");
 const $$Picture = createComponent(async ($$result, $$props, $$slots) => {
@@ -1866,7 +1866,7 @@ const $$Picture = createComponent(async ($$result, $$props, $$slots) => {
     const srcsetAttribute = props.densities || !props.densities && !props.widths && !useResponsive ? `${image.src}${image.srcSet.values.length > 0 ? ", " + image.srcSet.attribute : ""}` : image.srcSet.attribute;
     return renderTemplate`<source${addAttribute(srcsetAttribute, "srcset")}${addAttribute(mime.lookup(image.options.format ?? image.src) ?? `image/${image.options.format}`, "type")}${spreadAttributes(sourceAdditionalAttributes)}>`;
   })}  <img${addAttribute(fallbackImage.src, "src")}${spreadAttributes(attributes)}${addAttribute(className, "class")}> </picture>`;
-}, "C:/Users/DAISY/KatsumiMaki/node_modules/astro/components/Picture.astro", void 0);
+}, "C:/Users/DAISY/GithubPages/vw.z/node_modules/astro/components/Picture.astro", void 0);
 
 const fontsMod = /*#__PURE__*/Object.freeze(/*#__PURE__*/Object.defineProperty({
 	__proto__: null
@@ -1889,7 +1889,7 @@ const $$Font = createComponent(($$result, $$props, $$slots) => {
     });
   }
   return renderTemplate`<style>${unescapeHTML(data.css)}</style>${preload && data.preloadData.map(({ url, type }) => renderTemplate`<link rel="preload"${addAttribute(url, "href")} as="font"${addAttribute(`font/${type}`, "type")} crossorigin>`)}`;
-}, "C:/Users/DAISY/KatsumiMaki/node_modules/astro/components/Font.astro", void 0);
+}, "C:/Users/DAISY/GithubPages/vw.z/node_modules/astro/components/Font.astro", void 0);
 
 const imageConfig = {"endpoint":{"route":"/_image/"},"service":{"entrypoint":"astro/assets/services/sharp","config":{}},"domains":[],"remotePatterns":[],"responsiveStyles":false};
 							const getImage = async (options) => await getImage$1(options, imageConfig);
@@ -1971,6 +1971,6 @@ const $$ManifestImage = createComponent(($$result, $$props, $$slots) => {
   const decoding = priority ? "sync" : "async";
   const fetchpriority = priority ? "high" : "auto";
   return renderTemplate`${maybeRenderHead()}<figure${addAttribute(classes, "class")}> <a${addAttribute(publicSrc, "href")} target="_blank" rel="noreferrer"> ${imageMeta ? renderTemplate`${renderComponent($$result, "Image", $$Image, { "src": imageMeta, "alt": caption || file, "loading": loading, "decoding": decoding, "fetchpriority": fetchpriority, "sizes": sizes, "width": width, "height": height, "style": rotation ? "transform: rotate(180deg);" : void 0 })}` : renderTemplate`<img${addAttribute(publicSrc, "src")}${addAttribute(caption || file, "alt")}${addAttribute(width, "width")}${addAttribute(height, "height")}${addAttribute(loading, "loading")}${addAttribute(decoding, "decoding")}${addAttribute(fetchpriority, "fetchpriority")}${addAttribute(rotation ? "transform: rotate(180deg);" : void 0, "style")}>`} </a> ${caption && renderTemplate`<figcaption>${caption}</figcaption>`} </figure>`;
-}, "C:/Users/DAISY/KatsumiMaki/src/components/ManifestImage.astro", void 0);
+}, "C:/Users/DAISY/GithubPages/vw.z/src/components/ManifestImage.astro", void 0);
 
 export { $$ManifestImage as $, baseService as b, parseQuality as p };
